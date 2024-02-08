@@ -1,0 +1,21 @@
+.message-board {
+    background-color: blue;
+    width: 100%;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logout {
+    border:solid 1px red;
+    padding: 20px;
+    cursor: pointer;
+    margin-right: 40px;
+}
+
+.goHome {
+    cursor: pointer;
+}
